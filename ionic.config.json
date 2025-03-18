@@ -1,0 +1,7 @@
+{
+  "name": "Todo_list_p",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
